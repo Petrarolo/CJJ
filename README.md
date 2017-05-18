@@ -1,2 +1,2 @@
 # CJJ
- Group work
+ Group work for the technical investigation 
